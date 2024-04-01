@@ -1,0 +1,7 @@
+﻿  Person.cpp
+C:\Repos\cpp_brownbelt\Hash_Person\Person.cpp(117,61): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Repos\cpp_brownbelt\Hash_Person\Person.cpp(117,61): warning C4267:         with
+C:\Repos\cpp_brownbelt\Hash_Person\Person.cpp(117,61): warning C4267:         [
+C:\Repos\cpp_brownbelt\Hash_Person\Person.cpp(117,61): warning C4267:             _Ty=int
+C:\Repos\cpp_brownbelt\Hash_Person\Person.cpp(117,61): warning C4267:         ]
+  Hash_Person.vcxproj -> C:\Repos\cpp_brownbelt\Hash_Person\x64\Debug\Hash_Person.exe
