@@ -1,0 +1,3 @@
+﻿  secondary_index.cpp
+C:\Repos\cpp_brownbelt\SecondaryIndex\secondary_index.cpp(46,1): warning C4715: Database::Put: значение возвращается не при всех путях выполнения
+  SecondaryIndex.vcxproj -> C:\Repos\cpp_brownbelt\SecondaryIndex\x64\Debug\SecondaryIndex.exe
