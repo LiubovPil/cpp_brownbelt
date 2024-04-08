@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|solutionrelative:ini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\test_ini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|solutionrelative:test_ini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\test_runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|solutionrelative:test_runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|solutionrelative:ini.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\test_runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|solutionrelative:test_runner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D097BD27-BDAC-4192-BEF7-0DA5A1861DEC}|LoadingFromINI.vcxproj|solutionrelative:ini.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ini.cpp",
-              "DocumentMoniker": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.cpp",
-              "RelativeDocumentMoniker": "ini.cpp",
-              "ToolTip": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.cpp",
-              "RelativeToolTip": "ini.cpp",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-07T20:23:50.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "test_runner.h",
               "DocumentMoniker": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\test_runner.h",
               "RelativeDocumentMoniker": "test_runner.h",
               "ToolTip": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\test_runner.h",
               "RelativeToolTip": "test_runner.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-07T20:25:50.092Z",
+              "WhenOpened": "2024-04-08T20:24:13.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "ini.cpp",
+              "DocumentMoniker": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.cpp",
+              "RelativeDocumentMoniker": "ini.cpp",
+              "ToolTip": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.cpp",
+              "RelativeToolTip": "ini.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T19:28:03.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_ini.cpp",
+              "DocumentMoniker": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\test_ini.cpp",
+              "RelativeDocumentMoniker": "test_ini.cpp",
+              "ToolTip": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\test_ini.cpp",
+              "RelativeToolTip": "test_ini.cpp",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAYwHQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T19:20:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ini.h",
               "DocumentMoniker": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.h",
               "RelativeDocumentMoniker": "ini.h",
               "ToolTip": "C:\\Repos\\cpp_brownbelt\\LoadingFromINI\\ini.h",
               "RelativeToolTip": "ini.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-07T20:23:43.435Z",
               "EditorCaption": ""

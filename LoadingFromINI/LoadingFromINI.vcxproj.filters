@@ -23,6 +23,9 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="test_ini.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
     <ClCompile Include="ini.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
